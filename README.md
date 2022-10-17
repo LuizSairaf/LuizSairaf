@@ -1,7 +1,7 @@
 
 ## Olá!! Eu sou Luiz Henrique !
 
-Estudante de análise e desenvolvimento de sistemas, nesse momento, estudando c#(csharp) e .net(dotnet) .  Atualmente, desenvolvedor front-end buscando conhecimentos
+Estudante de análise e desenvolvimento de sistemas.Desenvolvedor front-end buscando conhecimentos
 e experiências com o objetivo de ser um futuro programador fullstack.
 ##
 <div align="center">
