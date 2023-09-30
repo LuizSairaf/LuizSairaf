@@ -1,8 +1,7 @@
 
 ## Olá!! Eu sou Luiz Henrique !
 
-Estudante de análise e desenvolvimento de sistemas.Desenvolvedor front-end buscando conhecimentos
-e experiências com o objetivo de ser um futuro programador fullstack.
+Jovem fascinado por tecnologia, buscando sempre o desenvolvimento profissional e pessoal através da dedicação, persistência e troca de experiências. Atualmente estou cursando análise e desenvolvimento de sistemas, projetando ser um full stack developer.
 ##
 <div align="center">
   <a href="https://github.com/LuizSairaf">
